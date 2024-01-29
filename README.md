@@ -1,6 +1,6 @@
 <h2> Hi, I'm Thiha Hein! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn3.emoji.gg/emojis/3779-cat.gif" width="230">
-<p><em>Mobile Developer at <a href="https://www.smeintellect.com">sme intellect</a><img src="https://cdn3.emoji.gg/emojis/8407-silly.gif" width="30"></br>Student at <a href="https://www.uopeople.edu">UoPeople</a><img src="https://cdn3.emoji.gg/emojis/9948-catsleepy.gif" width="30"> 
+<p><em>Mobile Developer at <a href="https://www.smeintellect.com">sme intellect</a><img src="https://cdn3.emoji.gg/emojis/8407-silly.gif" width="30"></br>Student at <a href="https://www.uopeople.edu">University of The People</a><img src="https://cdn3.emoji.gg/emojis/9948-catsleepy.gif" width="30"> 
 </em></p>
 
 
